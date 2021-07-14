@@ -125,7 +125,7 @@ note: "代码实现"
     for (int i = 1; i <= n; ++i) inv[i] = sv[i] * s[i - 1] % p;
 ```
 
-## 逆元练习题
+## 逆元例题
 
 [乘法逆元](https://loj.ac/problem/110)
 

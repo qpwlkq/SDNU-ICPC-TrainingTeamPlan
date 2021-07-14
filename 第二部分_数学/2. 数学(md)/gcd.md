@@ -169,7 +169,7 @@ int gcd(int a, int b, int& x, int& y) {
 
 最后我们知道 $a_1$ 就是要求的 $\gcd$，有 $x \cdot a +y \cdot b =g$。
 
-## 应用
+## 例题
 
 - [10104 - Euclid Problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1045)
 - [GYM - (J) once upon a time](http://codeforces.com/gym/100963)
